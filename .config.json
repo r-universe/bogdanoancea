@@ -1,0 +1,21 @@
+{
+  "cran_version": "2025-01-15",
+  "repos": {
+    "CRAN": "https://cloud.r-project.org"
+  },
+  "check": {
+    "args": [
+      "--no-vignettes",
+      "--ignore-vignettes"
+    ],
+    "build_args": [
+      "--compact-vignettes=gs+qpdf"
+    ]
+  },
+  "vignettes": {
+    "precompute": true
+  },
+  "build": {
+    "keep_logs": true
+  }
+}
