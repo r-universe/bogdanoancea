@@ -7,6 +7,7 @@
     "args": [
       "--no-vignettes",
       "--ignore-vignettes"
+      "--no-manual"
     ],
     "build_args": [
       "--compact-vignettes=gs+qpdf"
