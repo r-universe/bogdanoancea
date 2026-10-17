@@ -1,0 +1,23 @@
+[
+  {
+    "package": "finitization",
+    "metadata": {
+      "maintainer": "Bogdan Oancea <bogdan.oancea@gmail.com>",
+      "description": "R package implementing finitization of discrete distributions with exact moment preservation using GMP, CLN, and GiNaC backends.",
+      "topic": [
+        "statistics",
+        "probability",
+        "distributions",
+        "C++",
+        "GMP",
+        "GiNaC",
+        "CLN"
+      ],
+      "license": "GPL-3",
+      "language": [
+        "R",
+        "C++"
+      ]
+    }
+  }
+]
